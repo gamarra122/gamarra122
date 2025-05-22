@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-12germangamarra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:12germangamarra@gmail.com)](mailto:12germangamarra@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/gamarra122?label=Follow&style=social)](https://github.com/gamarra122)
 
-🎓 I'm a Software Development student from **Resistencia, Chaco - Argentina** 🇦🇷  
+🎓 I'm a Software Development student from **Chaco - Argentina** 🇦🇷  
 💻 I'm currently focused on improving my skills as a developer and continuing to learn new technologies.  
 ☕ Coffee & code
 
