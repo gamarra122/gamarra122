@@ -21,3 +21,6 @@
 - Gmail: [12germangamarra@gmail.com](mailto:12germangamarra@gmail.com)
 - GitHub: [gamarra122](https://github.com/gamarra122)
 - LinkedIn: [Germán Gamarra](https://www.linkedin.com/in/germ%C3%A1n-gamarra-83211a32b/)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gamarra122&theme=cobalt&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
