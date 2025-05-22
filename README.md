@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey, I'm Germán
 
-<!--
-**gamarra122/gamarra122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/germ%C3%A1n-gamarra-83211a32b/)](https://www.linkedin.com/in/germ%C3%A1n-gamarra-83211a32b/)
+[![Gmail Badge](https://img.shields.io/badge/-12germangamarra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:12germangamarra@gmail.com)](mailto:12germangamarra@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/gamarra122?label=Follow&style=social)](https://github.com/gamarra122)
 
-Here are some ideas to get you started:
+🎓 I'm a Software Development student from **Resistencia, Chaco - Argentina** 🇦🇷  
+💻 I'm currently focused on improving my skills as a developer and continuing to learn new technologies.  
+☕ Coffee & code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack:
+- `HTML`, `CSS`, `JavaScript`
+- `Python`, `PHP`
+- `MySQL`, `SQLite`, `Navicat`
+
+---
+
+### 📫 How to reach me:
+- Gmail: [12germangamarra@gmail.com](mailto:12germangamarra@gmail.com)
+- GitHub: [gamarra122](https://github.com/gamarra122)
+- LinkedIn: [Germán Gamarra](https://www.linkedin.com/in/germ%C3%A1n-gamarra-83211a32b/)
